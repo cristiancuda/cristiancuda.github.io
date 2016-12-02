@@ -24,7 +24,11 @@ html, body {
 .header ul li a {
     color: #fff;
 }
-
+.header ul li:hover {
+    color: #fff;
+    background-color: red;
+    transition: .5s;
+}
 .main {
     height: 1000px;
     background-color: #fffff
