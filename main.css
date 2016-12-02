@@ -31,7 +31,7 @@ html, body {
 }
 .header ul li:hover {
     color: #fff;
-    background-color: red;
+    background-color: orange;
     transition: .5s;
 }
 
