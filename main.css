@@ -34,7 +34,11 @@ html, body {
     background-color: orange;
     transition: .5s;
 }
-
+.jumbotron {
+    position: relative;
+    background: white;
+    background-size: cover;
+}
 .jumbotron video {
     width: 100%;
     margin-top: -50px;
